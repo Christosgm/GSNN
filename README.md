@@ -1,5 +1,7 @@
 # Naive OpenGL Renderer for Gaussian Splats
-Gaussian Splats naive renderer from trained .ply splat files using the [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://github.com/graphdeco-inria/gaussian-splatting/tree/main) method.
+This is the implementation of my Thesis "Reconstruction and Rendering of 3D Scenes with Gaussian Splatting"
+
+This is a naive renderer from trained .ply splat files using the [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://github.com/graphdeco-inria/gaussian-splatting/tree/main) method.
 
 The [happly](https://github.com/nmwsharp/happly) header by [nmwsharp](https://github.com/nmwsharp/) is used to read the .ply files.
 
