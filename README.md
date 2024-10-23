@@ -59,3 +59,4 @@ Python dependencies: Numpy, Pandas, PyTorch, tqdm, PIL, [FLIP](https://github.co
 ## *TODO*
 - [ ] *Create flying camera.*
 - [ ] *Create inference shader.*
+- [ ] *Thesis in greek and english (coming soon!)*
